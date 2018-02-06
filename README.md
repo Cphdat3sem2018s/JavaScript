@@ -46,7 +46,7 @@ Often when you google; articles from w3schools will pop up first. If you prefer 
 ### References 
 You should definitely bookmark this [page](https://www.w3schools.com/jsref/default.asp) for future JavaScript reference
 
-Extras:
+### Extras:
 This codecademy tutorial could be a good choice if find that your general coding skills could be better.
 Many of the sections require you to pay for the course, but it is definitely possible to go through with a free subscription (I don't recommend you to pay for this course):
 

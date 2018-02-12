@@ -39,6 +39,8 @@ Often when you google; articles from w3schools will pop up first. If you prefer 
 - The [MDN JavaScript Guide](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide/Introduction) (Skip these sections: Regular expressions, Keyed collections, Details of the object model and the remaining sections) 
 - [Course on Lynda.com](https://www.lynda.com/JavaScript-tutorials/Welcome/574716/612017-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3ajavascript%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) - section 1-4 + 9 (just skip sections you find to trivial)
 
+[Slides](http://sem3slides.mydemos.dk/js1/js.html)
+
 ### Day-2 (The Document Object Model - DOM)
 
 - [Document Object Model (W3)]( https://www.w3schools.com/js/js_htmldom.asp) Read/skim all chapters until and including DOM Event Listener. Complete as many of the examples/exercises as you have time for while you read.

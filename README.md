@@ -41,6 +41,8 @@ Often when you google; articles from w3schools will pop up first. If you prefer 
 
 [Slides](http://sem3slides.mydemos.dk/js1/js.html)
 
+[Snippets](https://docs.google.com/document/d/1azWGYuInsj15FrGzcdGpOaowseE10BKAN1mc5EhpdK4/edit?usp=sharing)
+
 ### Day-2 (The Document Object Model - DOM)
 
 - [Document Object Model (W3)]( https://www.w3schools.com/js/js_htmldom.asp) Read/skim all chapters until and including DOM Event Listener. Complete as many of the examples/exercises as you have time for while you read.

@@ -47,6 +47,7 @@ Often when you google; articles from w3schools will pop up first. If you prefer 
 
 - [Document Object Model (W3)]( https://www.w3schools.com/js/js_htmldom.asp) Read/skim all chapters until and including DOM Event Listener. Complete as many of the examples/exercises as you have time for while you read.
 - [Course on Lynda.com](https://www.lynda.com/JavaScript-tutorials/Welcome/574716/612017-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3ajavascript%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) chap 5-7 (chapter 6-7 will be a part of CA-1 so you can skip these sections until then)
+
 [Slides](https://efif.sharepoint.com/:p:/s/cph/Lyngby/ESWmlKaRhhdBiyIC2lkJTw4ByDE4sjJWBJRPEOwOHd7w0A?e=iKtpgc)
 
 ### References 
